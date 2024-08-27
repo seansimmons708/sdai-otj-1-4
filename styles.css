@@ -1,0 +1,19 @@
+body {font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0;}
+h1, h2, h3, h4 {font-family: 'Georgia', serif; margin: 20px 0;}
+h1 {font-size: 36px; color: #333;}
+h2 {font-size: 30px; color: #b39804;}
+h3 {font-size: 24px; color: #d31212;}
+h4 {font-size: 20px; color: #777;}
+header, nav, section, article, footer {margin: 20px auto; max-width: 1200px; padding: 0 15px;}
+nav ul {list-style: none; display: flex; justify-content: space-around; padding: 0; margin: 0; background-color: #444;}
+nav ul li {margin: 0;}
+nav ul li a {color: #fff; text-decoration: none; padding: 10px 20px; display: block;}
+nav ul li a:hover {background-color: #666;}
+img {width: 100%; max-width: 200px; display: block; margin: 10px auto;}
+#menu h2 {text-align: center; max-width: 800px; margin: 0 auto;}
+.menu-item {margin-bottom: 15px;}
+.menu-item p {margin: 5px 0 10px 0; padding: 0;}
+footer ul {list-style: none; display: flex; justify-content: center; padding: 0;}
+footer ul li {margin: 0 10px;}
+footer ul li a {color: #444; text-decoration: none;}
+footer ul li a:hover {text-decoration: underline;}
